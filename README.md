@@ -10,4 +10,5 @@ https://docs.djangoproject.com/en/5.0/intro/tutorial01/
 
 ### Notes
 - made it to django admin, need to take a break now. 
+- made it to raising a 404 error, time for a break.
 
